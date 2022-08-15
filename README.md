@@ -29,6 +29,7 @@ git clone -b develop https://github.com/WiscEvan/Automappa
 ### build images for automappa services
 
 ```bash
+cd Automappa
 make build
 ```
 
